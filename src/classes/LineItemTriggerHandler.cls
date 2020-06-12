@@ -23,6 +23,7 @@ public with sharing class LineItemTriggerHandler {
 		updateCategories(orders, lineItems);
 
 		update orders;
+		update orders;
 		
 	}
 	
