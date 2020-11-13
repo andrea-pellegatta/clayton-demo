@@ -20,7 +20,7 @@
  * See the Apex Language Reference for more information about Testing and Code Coverage.
  */
 @isTest
-private class LineItemTriggerTest {
+private abstract class LineItemTriggerTest {
 	
 	private static final Integer TEST_VOLUMES_NUMBER_OF_ACCOUNTS = 100;
 	private static final Integer TEST_VOLUMES_NUMBER_OF_LOTS = 1000;
