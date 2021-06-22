@@ -1,5 +1,5 @@
 public with sharing class LineItemTriggerHandler {
-		
+		//aaaaddddd
 	/* Public methods
 	========================= */
 	
@@ -22,6 +22,7 @@ public with sharing class LineItemTriggerHandler {
 		updatePurchasedAmount(orders, lineItems);
 		updateCategories(orders, lineItems);
 
+		update orders;
 		update orders;
 		
 	}
